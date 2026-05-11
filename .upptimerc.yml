@@ -10,7 +10,7 @@ sites:
     url: https://docs.humanize.app
 
 status-website:
-  baseUrl: /status
+  cname: status.humanize.app
   name: Humanize Status
   introTitle: "**Humanize Status**"
   introMessage: Real-time and historical uptime for the Humanize application, marketing site, and documentation. Powered by [Upptime](https://upptime.js.org).
